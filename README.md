@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyankabiswas06
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Cloud Computing
 - 📍  I’m looking to collaborate on python,java
 - 📫 How to reach me @priyankaaaa06@gmail.com
 
